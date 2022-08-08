@@ -16,7 +16,5 @@ Go to [Chrome extensions](chrome://extensions/)
 
 Turn on developer mode and select Load unpacked
 
-![dev mode](https://blogcdn.gmass.co/blog/wp-content/uploads/2021/02/gmass-local-web.png)
-
 select the build folder and you re ready!
 
