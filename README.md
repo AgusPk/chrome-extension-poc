@@ -12,7 +12,7 @@ run
 
 **npm run build**
 
-Go to [Chrome extensions](chrome://extensions/) 
+Go to chrome://extensions/ in you browser 
 
 Turn on developer mode and select Load unpacked
 
